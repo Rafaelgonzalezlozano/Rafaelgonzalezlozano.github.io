@@ -1,4 +1,4 @@
-- Enlace a la página web funcional y publicada: https://T1noir.github.io/
+- Enlace a la página web funcional y publicada: https://Rafaelgonzalezlozano.github.io/
 
 - Breve descripción de las funcionalidades implementadas:
 
